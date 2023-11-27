@@ -1,6 +1,6 @@
-### HC-SR501 PIR motion sensor IoT project
+### Audio Over TCP Example
 
-The initial boilerplate for an IoT project that will use the Photon 2 (Particle.io) and a HC-SR501 PIR motion sensor.
+This is just an working example of how to send audio over tcp via the Adafruit PDM MEMS Microphone Breakout. The code is taken from the excellent 
+Microphone_PDM library (https://github.com/particle-iot/Microphone_PDM), I am not the author. Very useful library!
 
-Other things that are in the pipeline: Particle.io's Cloud API / Webhooks, a Node.js app to receive the webhook data, a very minimal Granfana dashboard
-and maybe a database to store the results.
+This is mostly a storage place while I slowly add to this project while I also learn more about the hardware side of things and C++. 
